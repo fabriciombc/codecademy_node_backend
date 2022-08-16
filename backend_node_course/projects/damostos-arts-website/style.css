@@ -1,0 +1,66 @@
+.header {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(images/image_1.jpeg);
+}
+.header2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.header3 {
+  font-family: Helvetica;
+}
+.header4 {
+  background-color: lightcoral;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.header5 {
+  font-family: Helvetica;
+  color: black;
+  font-weight: bold;
+  text-align: left;
+}
+.header6 {
+  background-color: skyblue;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.header7 {
+  font-family: Helvetica;
+  color: black;
+  font-weight: bold;
+  text-align: left;
+}
+h3 {
+  font-family: Helvetica;
+}
+p {
+  color: black;
+  text-align: left;
+}
+.assorted {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+.dolar {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+.starting {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
