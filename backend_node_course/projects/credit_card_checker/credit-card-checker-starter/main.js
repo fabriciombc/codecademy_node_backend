@@ -109,3 +109,5 @@ uniqueList = [...new Set(badCardCompanies)];
 }
 
 idInvalidCardCompanies(invalCards);
+
+
